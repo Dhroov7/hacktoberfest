@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Andriele Aschidamini](https://github.com/AndrieleAschi)
+- Place: Porto Alegre, Brazil
+- Bio: Front-End Developer, Student and biker
+- GitHub: [AndrieleAschi](https://github.com/AndrieleAschi)
